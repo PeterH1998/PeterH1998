@@ -23,6 +23,7 @@ Software developer building scalable applications with JavaScript, Node.js, and 
 ## 📌 Featured Projects
 - [FixIt](#) – Full-stack marketplace for on-demand repair services with real-time matching, messaging, and job lifecycle management.
 - [Privacy Pipeline](#) – Automated DevSecOps pipeline enforcing security checks (secrets, dependencies, PII) on every pull request via GitHub Actions.
+- [Personal Portfolio](https://github.com/PeterH1998/my-portfolio) – Responsive portfolio website designed to highlight my projects, technical skills, professional background, and contact information in a clean, recruiter-friendly experience.
   
 ---
 
